@@ -4,7 +4,7 @@ Below is a template example of the **info.json** file format, further below you 
 
 ```
 {
-    "id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "id": "0x1A2a16938CE3aC39b6D47113c7955bAa9DD454F2",
     "name": "Ethereum",
     "tag": "ETH",
     "decimals": 18,
@@ -15,7 +15,7 @@ Below is a template example of the **info.json** file format, further below you 
       "coinGeckoID": "ethereum",
       "coinMarketCapID": "ethereum",
       "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality supporting thousands of Dapps and DeFi protocols.",
-      "explorer": "https://polygonscan.com/token/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      "explorer": "https://polygonscan.com/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
       "coinGecko": "https://www.coingecko.com/coins/ethereum/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/ethereum/"
     },
