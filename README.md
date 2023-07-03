@@ -53,3 +53,4 @@ Fill in the following form and follow the process:
 We allow anyone to submit a new digital asset to be added to the repository, this does not mean we endorse or are in any partnership with any of the projects.
 
 We reserve the right to reject or remove any projects without refund for any reason, such as if they are deemed to be a scam on review. Additionally, the terms or fee may change from time to time depending on the market and as we deem fit.
+![tokenIssuerTab 0d2ef754](https://github.com/Frankramos181422/Crypto-Assets/assets/88491661/7a03ad7c-86e4-4c04-95a3-4c0f0efe8a12)
